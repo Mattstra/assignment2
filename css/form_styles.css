@@ -1,0 +1,32 @@
+.large-textarea {
+  height: 150px;
+  width:  400px;
+  margin: 8px 0;
+  border-color: red;
+  border-width: 3px;
+  border-radius: 3px;
+}
+
+.small-textarea {
+  margin: 8px 0;
+  border-color: red;
+  border-width: 3px;
+  border-radius: 3px;
+}
+
+body {
+  background-color: #6699ff;
+}
+
+input[type=text] {
+    background-color: #00ff00;
+    color: white;
+}
+
+input[type=submit] {
+  background-color: red;
+  color: white;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+}
